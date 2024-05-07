@@ -109,21 +109,8 @@ This dashboard was created to understand the aims to research in osteoporosis ri
 
 ## OSTEOPOROSIS Visuals/Dashboard
 
-#### Page1
 
- 
-
-<img width="754" alt="osteo dashboard" src="https://github.com/Milaabo/OSTEOPOROSIS/assets/166234463/347978d4-00bb-4c2e-a82a-b2f79d0b59db">
-
- 
-
- 
-
-#### Page2
-
- 
-
-<img width="787" alt="visual3" src="https://github.com/Milaabo/OSTEOPOROSIS/assets/166234463/9b6919fe-6181-4bf0-bac1-7619fc4a9657">
+<img width="766" alt="Dashboard" src="https://github.com/Milaabo/Osteoporosis/assets/160076767/4cdf00ee-b4fd-4b8e-ac41-17b5f593461e">
 
  
 
