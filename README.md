@@ -69,5 +69,46 @@
 
 - Osteoporosis
 
+## Dashboard
+
+This dashboard was created to understand the aims to research in osteoporosis risk prediction and analysis, enabling the development
+
+ 
+
+## Project Questions
+
+ 
+
+- What is the gender distribution of OSteoporosis?
+
+- If Age risk factor for oSteoporosis?
+
+- What  Race / ethnicity is affected the most?
+
+ 
+
+ 
+
+## Skills Demonstrated
+
+- DAX
+
+- Slicers
+
+- Filters
+
+- Measures
+
+- Data Transformation
+
+- Data Extraction
+
+- Data Modelling
+
+ 
+
+## OSTEOPOROSIS Visuals/Dashboard
+
+
  
 
